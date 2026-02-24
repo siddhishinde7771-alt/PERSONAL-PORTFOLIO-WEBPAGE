@@ -1,0 +1,33 @@
+.font-display {
+  font-family: 'Playfair Display', serif;
+}
+
+.font-body {
+  font-family: 'DM Sans', sans-serif;
+}
+
+.skill {
+  background: #1f1f2e;
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-size: 14px;
+  transition: 0.3s ease;
+}
+
+.skill:hover {
+  background: #8b5cf6;
+  transform: scale(1.05);
+}
+
+.project-card {
+  background: #16161f;
+  padding: 25px;
+  border-radius: 20px;
+  transition: 0.4s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-8px);
+  background: #8b5cf6;
+}
+
